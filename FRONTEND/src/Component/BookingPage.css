@@ -1,0 +1,49 @@
+
+.background {
+  background-image: url('./BookingBackground.jpg');
+  background-size: cover;
+  background-position: center;
+  margin:0;
+}
+
+#service {
+  height: 1rem;
+  width: 1rem;
+  border-color: #e2e8f0;
+  border-radius: 0.25rem;
+  color: black;
+}
+
+label[for="service"] {
+  margin-left: 0.5rem; 
+  display: block; 
+  font-size: 0.875rem;
+  color: black;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group select {
+  display: block;
+  margin-bottom: 5px;
+}
+.form-group input {
+  width: 300px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+#vehicle-type{
+  width:300px;
+  border: 1px solid #ccc;
+}
+

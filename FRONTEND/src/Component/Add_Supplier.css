@@ -1,0 +1,100 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: rgb(255, 255, 255);
+    color: aliceblue;
+    
+}
+.add,form{
+    display: flex;
+    flex-direction: column;
+}
+.container
+.add,form{
+    width: 650px;
+    
+}
+
+.container
+.add{
+    justify-content: center;
+     align-items: center;
+}
+.container
+.add,
+.btn{
+    cursor: pointer;
+    border: 0;
+    height: 30px;
+    color: antiquewhite;
+    background-color: rgb(19, 108, 185);
+    width: 100px;
+
+}
+.container,
+.add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+ 
+    height: 600px;
+    width:95%;
+    background-color: rgba(112, 110, 110, 0.322);
+    margin-left: -200px;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+    background-color: rgb(255, 255, 255);
+    color: aliceblue;
+   
+}
+
+.add,
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.container .add,
+.container form {
+    width: 650px;
+}
+
+.container .add {
+    justify-content: center;
+    align-items: center;
+}
+
+.container .add,
+.btn {
+    cursor: pointer;
+    border: 0;
+    height: 30px;
+    color: antiquewhite;
+    background-color: rgb(19, 108, 185);
+    width: 100px;
+}
+
+.container,
+.container .add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    height: 600px;
+    width: 95%;
+    background-color: rgba(112, 110, 110, 0.322);
+    margin-left: auto;
+    margin-right: auto; 
+    max-width: 1200px; 
+} */
